@@ -8,9 +8,9 @@
 * Presentation – Live presentations will take place on 7/2 in BlackBoard Collaborate starting at 6 pm
 * Documentation (wiki) & process – 7/2
 
-# Contact 
-Let's leave our email with Google Hangout:
-* Tianyu Wang   tianyuelite@gmail.com
+# Contact
+We could use Google Hangout to have an online meeting some times. So let's leave our emails with Google Hangout:
+* Tianyu Wang    tianyuelite@gmail.com
 
 # Idea proposal
 draft
@@ -18,6 +18,6 @@ draft
 I believe we should propose a cool but simple app during the rest of weeks. Please leave your initial ideas here.
 
 ## Target app:
-RSS reader
-Currency converter
+* RSS reader
+* Currency converter
 ...
