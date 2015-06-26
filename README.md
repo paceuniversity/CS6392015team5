@@ -13,11 +13,11 @@ We could use Google Hangout to have an online meeting some times. So let's leave
 * Tianyu Wang    tianyuelite@gmail.com
 
 # Idea proposal
-draft
+RSS stands for Really Simple Syndication. RSS is an easy way to share your website updates and content with your users so that users might not have to visit your site daily for any kind of updates.
+
+
 
 I believe we should propose a cool but simple app during the rest of weeks. Please leave your initial ideas here.
 
 ## Target app:
 * RSS reader
-* Currency converter
-* ...
