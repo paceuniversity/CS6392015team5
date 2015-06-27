@@ -11,13 +11,11 @@
 # Contact
 We could use Google Hangout to have an online meeting some times. So let's leave our emails with Google Hangout:
 * Tianyu Wang    tianyuelite@gmail.com
-
-# Idea proposal
-RSS stands for Really Simple Syndication. RSS is an easy way to share your website updates and content with your users so that users might not have to visit your site daily for any kind of updates.
-
-
-
-I believe we should propose a cool but simple app during the rest of weeks. Please leave your initial ideas here.
+* Ritesh Pathak  pathakritesh26@gmail.com
+* Hardik Patel   
 
 ## Target app:
 * RSS reader
+
+# Idea proposal
+See Propsal.md
