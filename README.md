@@ -17,5 +17,5 @@ We could use Google Hangout to have an online meeting some times. So let's leave
 ## Target app:
 * RSS reader
 
-# Idea proposal
+# Proposal
 See Propsal.md
