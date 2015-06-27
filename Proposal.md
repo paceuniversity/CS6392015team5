@@ -14,6 +14,6 @@ Our goal is to provide an easy and fast way to read useful information through a
 # Proposed Technologies
 The RSS reader will run as an Android mobile phone application. We will practise techonologies skills, such as ListView, ArrayAdapter, Parse XML in Android, HTTP Request and Show WebSite Content in WebView in Android. 
 
-# Out of Scope & Further Consideration
+# Out of Scope
 For the purposes of this project, our application will only fetch RSS feed for prototype. It will support full-text RSS feed converting feature in the future verison.
 
