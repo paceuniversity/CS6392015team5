@@ -2,8 +2,8 @@
 See [wiki](https://github.com/paceuniversity/CS6392015team5/wiki) page
 
 # Target Progress
-* Main program
+* Main program - done
+* add user_input RSS URL
 * add drag-refresh function
-* Modify UI
-* add WebSite Content in WebView
+* add WebView function
 * ...
