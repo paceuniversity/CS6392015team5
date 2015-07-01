@@ -11,16 +11,15 @@ import android.view.MenuItem;
 public class MainActivity extends ActionBarActivity {
 
     @Override
-    public void onCreate(Bundle savedInstanceState) {
+    protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        // check when inital
+        // initial if null
         if (savedInstanceState == null) {
             addRssFragment();
         }
     }
-
 
     private void addRssFragment() {
         FragmentManager manager = getSupportFragmentManager();
@@ -36,7 +35,6 @@ public class MainActivity extends ActionBarActivity {
         outState.putBoolean("fragment_added", true);
     }
 
-    // menu to be improved
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
@@ -59,8 +57,3 @@ public class MainActivity extends ActionBarActivity {
         return super.onOptionsItemSelected(item);
     }
 }
-
-
-
-
-

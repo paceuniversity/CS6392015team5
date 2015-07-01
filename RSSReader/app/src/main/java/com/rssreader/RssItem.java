@@ -1,23 +1,44 @@
 package com.rssreader;
 
 /**
- * Created by tianyuelite on 6/29/15.
+ * Created by tianyuelite on 6/30/15.
  */
-public class RssItem {
+public class RSSItem {
 
-    private final String title;
-    private final String link;
+    private String title = null;
+    private String description = null;
+    private String link = null;
+    private String pubdate = null;
 
-    public RssItem(String title, String link) {
-        this.title = title;
-        this.link = link;
+    RSSItem() {
     }
 
-    public String getTitle() {
+    void setTitle(String value) {
+        title = value;
+    }
+
+    void setDescription(String value) {
+        description = value;
+    }
+
+    void setLink(String value) {
+        link = value;
+    }
+
+    void setPubdate(String value) {
+        pubdate = value;
+    }
+
+
+    String getLink() {
+        return link;
+    }
+
+    @Override
+    public String toString() {
+        // TODO Auto-generated method stub
         return title;
     }
 
-    public String getLink() {
-        return link;
-    }
+
 }
