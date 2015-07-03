@@ -3,7 +3,7 @@ package com.rssreader;
 /**
  * Created by tianyuelite on 6/30/15.
  */
-class RSSItem {
+public class RSSItem {
 
     private String title = null;
     private String description = null;
